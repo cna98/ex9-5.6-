@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ex9Mthod {
+public class Ex9Method {
 	
 	public static void ex9m()
 	{
